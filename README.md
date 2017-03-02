@@ -1,4 +1,5 @@
+<<<<<<< HEAD
 # ProgUzytkowe jakis wyraz na koncu
-by damianqwer
+by damianqwer and fox
 ## Mega project
-Mega **super** project
+Mega **super** project, sredni projekt
