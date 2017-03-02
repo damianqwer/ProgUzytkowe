@@ -1,4 +1,4 @@
-# tak
+# tak racja
 amama
-## zapis1
-asdd
+## zapis2
+asdd 
