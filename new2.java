@@ -4,3 +4,4 @@ xxxxxxxxz
 zzz
 
 zmiana 2
+zmiana 3
